@@ -9,16 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.86.3",
+    "@react-three/fiber": "^8.14.4",
+    "@types/styled-components": "^5.1.28",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-responsive": "^9.0.2",
+    "styled-components": "^6.0.8",
+    "three": "^0.157.0"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
     "@types/node": "latest",
+    "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
+    "typescript": "latest"
   }
 }
